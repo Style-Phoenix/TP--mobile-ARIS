@@ -1,0 +1,9 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  # Pour Google Sign-In
+  google_sign_in: ^6.1.6 
+  # Pour Facebook Login
+  flutter_facebook_auth: ^6.0.4 
+  # Pour Apple Sign-In (iCloud)
+  sign_in_with_apple: ^6.1.1
